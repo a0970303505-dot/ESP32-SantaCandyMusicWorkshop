@@ -4,6 +4,9 @@
   <img src="images/santa.jpg" width="45%">
 </p>
 
+## Demo
+![demo](images/demo.gif)
+
 ## Introduction
 本專題以兩片 **ESP32** 製作一個聖誕主題的互動裝置藝術：會招手、扭腰、送糖果、唱聖誕歌的聖誕老人
 - 兩片 ESP32 連上同一個 WiFi，以 **UDP** 互傳封包，一片為 Server、一片為 Client
